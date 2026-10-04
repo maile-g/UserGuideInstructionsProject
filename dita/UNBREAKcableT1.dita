@@ -16,7 +16,6 @@
                     high-end or low-end of your car's station dial.</note>
                 <cmd>Tune the car radio to an unused FM radio frequency.</cmd>
                 <fig>
-                    <title>Figure 1: Car radio tuned to an unused FM frequency</title>
                     <image href="images/T1Step1.jpg" placement="break" id="image_krj_nnm_jjc"
                         width="200" height="250">
                         <alt>Image of a car radio on an unused FM frequency</alt>
@@ -28,7 +27,6 @@
                     in.</note>
                 <cmd>Plug in the device into your car's cigarette lighter or power port.</cmd>
                 <fig>
-                    <title>Figure 2: Device plugged into the car power port</title>
                     <image href="images/T1Step2.JPG" placement="break" id="image_flc_pnm_jjc"
                         width="190" height="230">
                         <alt>Image of transmitter plugged into car's power port.</alt>
@@ -36,9 +34,8 @@
                 </fig>
             </step>
             <step>
-                <cmd>Locate and Press the CH Channel Button.</cmd>
+                <cmd>Locate and Press the CH Channel Button</cmd>
                 <fig>
-                    <title>Figure 3: CH Channel Button on the FM transmitter</title>
                     <image href="images/T1Step3.jpg" id="image_bx4_5nm_jjc" placement="break"
                         width="240" height="250">
                         <alt>Image of device with CH Channel Button labeled</alt>
@@ -49,7 +46,6 @@
                 <cmd>Toggle the Multi-Function Button left/right to match the device's radio
                     frequency to the pre-selected frequency on your car radio.</cmd>
                 <fig>
-                    <title>Figure 4: Matching the transmitter and radio frequencies</title>
                     <image href="images/T1Step4.jpg" id="image_xjb_xnm_jjc" placement="break"
                         width="200" height="250">
                         <alt>Image of matching frequency of car radio and transmitter</alt>

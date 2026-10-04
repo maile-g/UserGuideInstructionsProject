@@ -2,13 +2,9 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="UNBREAKcableSourceAckn">
     <title>Image Source Acknowledgement</title>
-    <shortdesc>The following is the sources to all the images used throughout the documentation. </shortdesc>
     <body>
         <section>
-            <title>Image Source List (Order of Appearance):</title>
-            <ul id="ul_cgm_vqt_2kc">
-                <li> Cover Photo </li>
-            </ul>
+            <p>All images used </p>
         </section>
     </body>
 </topic>

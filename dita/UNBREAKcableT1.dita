@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="UNBRERAKcableT1">
+<task id="UNBREAKcableT1">
     <title>Setting-Up the FM Transmitter in Your Car</title>
     <shortdesc>To begin using the device, you need to set it up to your car's radio station.</shortdesc>
     <taskbody>
@@ -15,42 +15,50 @@
                 <note id="note_kfj_3ld_ljc" type="tip">You can typically find unused stations at the
                     high-end or low-end of your car's station dial.</note>
                 <cmd>Tune the car radio to an unused FM radio frequency.</cmd>
-                <fig>
-                    <image href="images/T1Step1.jpg" placement="break" id="image_krj_nnm_jjc"
-                        width="200" height="250">
-                        <alt>Image of a car radio on an unused FM frequency</alt>
-                    </image>
-                </fig>
+                <stepxmp>
+                    <fig>
+                        <image href="images/T1Step1.jpg" placement="break" id="image_krj_nnm_jjc"
+                            width="200" height="250">
+                            <alt>Image of a car radio on an unused FM frequency</alt>
+                        </image>
+                    </fig>
+                </stepxmp>
             </step>
             <step>
                 <note id="note_vcg_bld_ljc">LED Display will automatically turn on when plugged
                     in.</note>
                 <cmd>Plug in the device into your car's cigarette lighter or power port.</cmd>
-                <fig>
-                    <image href="images/T1Step2.JPG" placement="break" id="image_flc_pnm_jjc"
-                        width="190" height="230">
-                        <alt>Image of transmitter plugged into car's power port.</alt>
-                    </image>
-                </fig>
+                <stepxmp>
+                    <fig>
+                        <image href="images/T1Step2.JPG" placement="break" id="image_flc_pnm_jjc"
+                            width="190" height="230">
+                            <alt>Image of transmitter plugged into car's power port.</alt>
+                        </image>
+                    </fig>
+                </stepxmp>
             </step>
             <step>
                 <cmd>Locate and Press the CH Channel Button</cmd>
-                <fig>
-                    <image href="images/T1Step3.jpg" id="image_bx4_5nm_jjc" placement="break"
-                        width="240" height="250">
-                        <alt>Image of device with CH Channel Button labeled</alt>
-                    </image>
-                </fig>
+                <stepxmp>
+                    <fig>
+                        <image href="images/T1Step3.jpg" id="image_bx4_5nm_jjc" placement="break"
+                            width="240" height="250">
+                            <alt>Image of device with CH Channel Button labeled</alt>
+                        </image>
+                    </fig>
+                </stepxmp>
             </step>
             <step>
                 <cmd>Toggle the Multi-Function Button left/right to match the device's radio
                     frequency to the pre-selected frequency on your car radio.</cmd>
-                <fig>
-                    <image href="images/T1Step4.jpg" id="image_xjb_xnm_jjc" placement="break"
-                        width="200" height="250">
-                        <alt>Image of matching frequency of car radio and transmitter</alt>
-                    </image>
-                </fig>
+                <stepxmp>
+                    <fig>
+                        <image href="images/T1Step4.jpg" id="image_xjb_xnm_jjc" placement="break"
+                            width="200" height="250">
+                            <alt>Image of matching frequency of car radio and transmitter</alt>
+                        </image>
+                    </fig>
+                </stepxmp>
             </step>
         </steps>
         <result>

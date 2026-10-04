@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="UNBREAKcableT3">
+<task id="UNBREAKcableT4">
     <title>Adjusting Volume and Using Bass Boost Button</title>
     <shortdesc>Adjusting the audio of your car radio, your connected devices, and utilizing the Bass
         Boost Button improves the quality of sound and provides bass music quality.</shortdesc>
@@ -35,12 +35,14 @@
                 <substeps>
                     <substep>
                         <cmd>Locate the Bass Button on the device</cmd>
-                        <fig>
-                            <image href="images/T4Step2.jpg" placement="break"
-                                id="image_u3c_535_kjc" width="250" height="200">
-                                <alt>Image of Bass Booster Button labeled on transmitter</alt>
-                            </image>
-                        </fig>
+                        <stepxmp>
+                            <fig>
+                                <image href="images/T4Step2.jpg" placement="break"
+                                    id="image_u3c_535_kjc" width="250" height="200">
+                                    <alt>Image of Bass Booster Button labeled on transmitter</alt>
+                                </image>
+                            </fig>
+                        </stepxmp>
                     </substep>
                     <substep>
                         <note id="note_ipm_qg5_kjc">Long press Bass Booster 1x to turn ON/OFF the
@@ -55,13 +57,15 @@
                     accurately adjust volume</note>
                 <cmd>Toggle the volume up/down on the device using the Multi-Function joystick to
                     fine-tune the volume on the transmitter</cmd>
-                <fig>
-                    <image href="images/T4S3.jpg" placement="break" id="image_lr4_445_kjc"
-                        width="200" height="200">
-                        <alt>Image of multi-function button showing the toggle of device volume
-                            up/down</alt>
-                    </image>
-                </fig>
+                <stepxmp>
+                    <fig>
+                        <image href="images/T4S3.jpg" placement="break" id="image_lr4_445_kjc"
+                            width="200" height="200">
+                            <alt>Image of multi-function button showing the toggle of device volume
+                                up/down</alt>
+                        </image>
+                    </fig>
+                </stepxmp>
             </step>
         </steps>
         <result>

@@ -7,15 +7,13 @@
         navigation, or voice assistant controls on your mobile device easier while
         driving.</shortdesc>
     <conbody>
-        <p>
-            <fig id="fig_xq2_3f5_fkc">
-                <p>Mulit-Function Button</p>
-            </fig>
+        <fig id="fig_xq2_3f5_fkc">
+            <title>Figure 1: Multi-Function Button controls</title>
             <image href="images/MPButtonEDIT.jpg" placement="break" id="image_plj_syl_jjc"
                 width="300" height="300">
                 <alt>Image labeling multi-function button on the device.</alt>
             </image>
-        </p>
+        </fig>
         <table frame="all" rowsep="1" colsep="1" id="table_gyc_5tt_kjc">
             <title>Key Features of the Multi-Function Button</title>
             <tgroup cols="2">

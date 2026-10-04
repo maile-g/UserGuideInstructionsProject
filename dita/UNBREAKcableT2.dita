@@ -17,37 +17,51 @@
         </context>
         <steps>
             <step>
-                <cmd>Go to the Bluetooth settings on your mobile device.<image
-                        href="images/T2Pic1Copy.jpg" placement="break" id="image_cyw_c5b_kjc"
+                <cmd>Go to the Bluetooth settings on your mobile device.</cmd>
+                <fig>
+                    <title>Figure 1: Bluetooth settings on the mobile device</title>
+                    <image href="images/T2Pic1Copy.jpg" placement="break" id="image_cyw_c5b_kjc"
                         height="350" width="170">
                         <alt>Screenshot of Bluetooth settings on mobile device.</alt>
-                    </image></cmd>
+                    </image>
+                </fig>
             </step>
             <step>
                 <cmd>Ensure Bluetooth is toggled on and wait for nearby or "other" devices to be
-                    scanned by your mobile device.<image href="images/T2Pic2Copy.jpg"
-                        placement="break" id="image_vyn_fyb_kjc" width="170" height="350">
+                    scanned by your mobile device.</cmd>
+                <fig>
+                    <title>Figure 2: Bluetooth scanning for nearby devices</title>
+                    <image href="images/T2Pic2Copy.jpg" placement="break" id="image_vyn_fyb_kjc"
+                        width="170" height="350">
                         <alt>Screenshot of mobile device with Bluetooth toggled on and scanning for
                             nearby or other devices.</alt>
-                    </image></cmd>
+                    </image>
+                </fig>
             </step>
             <step>
                 <note id="note_t13_s1c_kjc" type="tip">If needed, use Password or Pin: 0000</note>
                 <cmd>Look for the transmitter's device name "UBCH261" and tap on the name to
-                        connect<image href="images/T2Pic3Copy.jpg" placement="break"
-                        id="image_amt_vwb_kjc" height="350" width="170">
+                    connect.</cmd>
+                <fig>
+                    <title>Figure 3: Selecting the UBCH261 transmitter</title>
+                    <image href="images/T2Pic3Copy.jpg" placement="break" id="image_amt_vwb_kjc"
+                        height="350" width="170">
                         <alt>Screenshot of transmitter's name on mobile device.</alt>
-                    </image></cmd>
+                    </image>
+                </fig>
             </step>
         </steps>
         <result>
             <p>The mobile device will show that the transmitter is connected and a sound prompt from
                 the transmitter will also notify that the Bluetooth connection is successful, and
-                you can begin streaming audio from your connected device<image
-                    href="images/T2Pic4Result.jpg" placement="break" id="image_sv3_2zb_kjc"
+                you can begin streaming audio from your connected device.</p>
+            <fig>
+                <title>Figure 4: Transmitter connected to the mobile device</title>
+                <image href="images/T2Pic4Result.jpg" placement="break" id="image_sv3_2zb_kjc"
                     height="350" width="170">
                     <alt>Screenshot of transmitter connected to mobile device.</alt>
-                </image></p>
+                </image>
+            </fig>
         </result>
     </taskbody>
 </task>

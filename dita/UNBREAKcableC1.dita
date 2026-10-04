@@ -13,16 +13,13 @@
             (up to 64GB), and has two extra ports for charging electronic devices.</p>
         <section id="core-components">
             <title>Core Components of the Device:</title>
-            <p>
-                <fig id="fig_xkq_bf5_fkc">
-                    <?oxy_insert_end?>
-                    <title>Components Labeled</title>
-                    <image href="images/USBFlashDrivePort.jpg" placement="break"
-                        id="image_jrt_kpb_kjc">
-                        <alt>Image that shows the labeled components of the device</alt>
-                    </image>
-                </fig>
-            </p>
+            <fig id="fig_xkq_bf5_fkc">
+                <title>Figure 1: Core components of the FM transmitter</title>
+                <image href="images/USBFlashDrivePort.jpg" placement="break"
+                    id="image_jrt_kpb_kjc">
+                    <alt>Image that shows the labeled components of the device</alt>
+                </image>
+            </fig>
             <ol>
                 <li>USB Flash Drive Port: USB-A audio port for playing music files on USB thumb
                     drive. </li>

@@ -11,11 +11,14 @@
         </context>
         <steps>
             <step>
-                <cmd>Locate the USB Flash Drive Port on your FM Transmitter.<image
-                        href="images/USBT3Step1.jpg" placement="break" id="image_ajc_r15_kjc"
+                <cmd>Locate the USB Flash Drive Port on your FM Transmitter.</cmd>
+                <fig>
+                    <title>Figure 1: USB Flash Drive port location</title>
+                    <image href="images/USBT3Step1.jpg" placement="break" id="image_ajc_r15_kjc"
                         width="230" height="170">
                         <alt>="image of transmitter with USB Flash Drive Port labeled"</alt>
-                    </image></cmd>
+                    </image>
+                </fig>
             </step>
             <step>
                 <note id="note_sgs_cxf_kjc" type="trouble">If the transmitter stays in the default
@@ -23,20 +26,27 @@
                     Drive Mode.</note>
                 <cmd>Plug in your USB thumb drive (loaded with <xref
                         href="UNBREAKcableR1.dita#UNBREAKcableR1/table_l4h_hv5_kjc">supported
-                        formats</xref>) and plug into the music port.<image
-                        href="images/T3Step2.jpg" placement="break" id="image_ewm_d15_kjc"
+                        formats</xref>) and plug into the music port.</cmd>
+                <fig>
+                    <title>Figure 2: USB drive connected to the transmitter</title>
+                    <image href="images/T3Step2.jpg" placement="break" id="image_ewm_d15_kjc"
                         width="265" height="180">
                         <alt>Image of thumb drive plugged into FM Transmitter.</alt>
-                    </image></cmd>
+                    </image>
+                </fig>
                 <stepresult>The transmitter should automatically detect the drive and begin playing
                     music files.</stepresult>
             </step>
             <step>
                 <cmd>Use the Multi-Function Button music playing features to control music playback
-                    on the drive.<image href="images/MPButtonEDIT.jpg" placement="break"
-                        id="image_jsn_xc5_kjc" width="230" height="200">
+                    on the drive.</cmd>
+                <fig>
+                    <title>Figure 3: Multi-Function Button controls for USB playback</title>
+                    <image href="images/MPButtonEDIT.jpg" placement="break" id="image_jsn_xc5_kjc"
+                        width="230" height="200">
                         <alt>Image of Multi-Function Button labeled</alt>
-                    </image></cmd>
+                    </image>
+                </fig>
                 <info>See,<xref
                         href="UNBREAKcableC4.dita#UNBREAKcableC4/table_gyc_5tt_kjc"/> for details on
                     the Multi-Function-Button's music-playing features</info>

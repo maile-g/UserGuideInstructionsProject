@@ -29,15 +29,19 @@
                 </substeps>
             </step>
             <step>
-                <cmd>Use Bass Booster Button</cmd>
+                <cmd>Use Bass Booster Button.</cmd>
                 <info>This button can be used to give audio a stronger bass, creating a more dynamic
                     sound effect through the car's radio.</info>
                 <substeps>
                     <substep>
-                        <cmd>Locate the Bass Button on the device<image href="images/T4Step2.jpg"
-                                placement="break" id="image_u3c_535_kjc" width="250" height="200">
+                        <cmd>Locate the Bass Button on the device.</cmd>
+                        <fig>
+                            <title>Figure 1: Bass Booster Button on the transmitter</title>
+                            <image href="images/T4Step2.jpg" placement="break" id="image_u3c_535_kjc"
+                                width="250" height="200">
                                 <alt>Image of Bass Booster Button labeled on transmitter</alt>
-                            </image></cmd>
+                            </image>
+                        </fig>
                     </substep>
                     <substep>
                         <note id="note_ipm_qg5_kjc">Long press Bass Booster 1x to turn ON/OFF the
@@ -51,11 +55,15 @@
                 <note id="note_yzp_dk5_kjc" type="tip">Play music or sound for this step to
                     accurately adjust volume</note>
                 <cmd>Toggle the volume up/down on the device using the Multi-Function joystick to
-                    fine-tune the volume on the transmitter.<image href="images/T4S3.jpg"
-                        placement="break" id="image_lr4_445_kjc" width="200" height="200">
+                    fine-tune the volume on the transmitter.</cmd>
+                <fig>
+                    <title>Figure 2: Multi-Function joystick volume controls</title>
+                    <image href="images/T4S3.jpg" placement="break" id="image_lr4_445_kjc"
+                        width="200" height="200">
                         <alt>Image of multi-function button showing the toggle of device volume
                             up/down</alt>
-                    </image></cmd>
+                    </image>
+                </fig>
             </step>
         </steps>
         <result>

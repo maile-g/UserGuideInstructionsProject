@@ -24,7 +24,6 @@ jobs:
           plugins: |
             fox.jason.extend.css
             net.infotexture.dita-bootstrap
-            net.infotexture.dita-bootstrap.lunr
             fox.jason.prismjs
             fox.jason.favicon
             fox.jason.open-graph
